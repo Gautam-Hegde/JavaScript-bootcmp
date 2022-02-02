@@ -33,10 +33,10 @@ var und=undefined;
 var no=null;
 console.log(und,no);
 
-/* there are two types of dataypes in JavaScript:
-1.primitive datatypes:undefined,null,number,string,boolean,symbol
-2.reference datatypes:Arrays and objects
-*/
+//there are two types of dataypes in JavaScript:
+//1.primitive datatypes:undefined,null,number,string,boolean,symbol
+//2.reference datatypes:Arrays and objects
+
 //ARRAYS:
 
 var arr=[1,2,3,4,"onigiri"];
@@ -54,10 +54,10 @@ console.log(a<b);
 
 //Functions in Javascript
 
-function avg(a,b){
-    return (a+b)/2;
-}
-console.log(avg(5,10));
+// function avg(a,b){
+//     return (a+b)/2;
+// }
+// console.log(avg(5,10));
 
 //Conditional in javascript;
 
