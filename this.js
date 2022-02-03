@@ -61,13 +61,13 @@ console.log(a<b);
 
 //Conditional in javascript;
 
-var age=15;
-if (age>=18) {
-    console.log("eligible to vote");
-}
-else{
-    console.log("not eligible");
-}
+// var age=15;
+// if (age>=18) {
+//     console.log("eligible to vote");
+// }
+// else{
+//     console.log("not eligible");
+// }
 //LOOPS in js:
 var arr1=[1,2,3,4,11];
 // for (let index = 0; index < arr1.length; index++) {
